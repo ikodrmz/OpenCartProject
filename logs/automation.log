@@ -387,3 +387,9 @@
 11:01:53.875 [main] INFO  testCases.TC_002_LoginTest - Providing login details...
 11:01:54.077 [main] INFO  testCases.TC_002_LoginTest - Clicked on login button
 11:01:54.460 [main] INFO  testCases.TC_002_LoginTest - *** Finished TC_002_LoginTest ***
+12:19:54.486 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+12:19:54.569 [main] INFO  testCases.TC_002_LoginTest - Clicked on My Account
+12:19:54.852 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+12:19:54.852 [main] INFO  testCases.TC_002_LoginTest - Providing login details...
+12:19:55.046 [main] INFO  testCases.TC_002_LoginTest - Clicked on login button
+12:19:55.455 [main] INFO  testCases.TC_002_LoginTest - *** Finished TC_002_LoginTest ***
